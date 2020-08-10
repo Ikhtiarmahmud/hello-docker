@@ -17,11 +17,6 @@ docker-compose up --build
 docker-compose up
 ```
 
-*To run docker image in background*
-```
-docker-compose up -d
-```
-
 # Hit URL 
 ```
 http://127.0.0.1:8088
